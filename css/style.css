@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+* {margin: 0; padding: 0; box-sizing: border-box;}
+
+body {height: 400vh;}
+
+.parallax {}
+
+.parallax:nth-child(1) {}
+.parallax:nth-child(2) {}
+.parallax:nth-child(3) {}
+.parallax:nth-child(4) {}
